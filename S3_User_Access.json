@@ -1,4 +1,5 @@
 {
+    "comment": "# This policy allows indiviual user or groups to access S3 bucket based on specific permission.",
     "Version": "2012-10-17",
     "Statement": [
         {
